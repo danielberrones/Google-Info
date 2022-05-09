@@ -1,7 +1,8 @@
 import yfinance as yf
 
 goog = yf.Ticker('goog')
-result = goog.get_info()["totalRevenue"]
-sep = "{:,}".format(result)
+totalRevenue = goog.get_info()["totalRevenue"]
 
-print(sep)
+sep = "{:,}".format(totalRevenue)
+print("totalRevenue\n", sep)
+
