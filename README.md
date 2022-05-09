@@ -1,2 +1,2 @@
 # Google-Info
-![graph](url "goog-msft.png")
+![graph](url "/goog-msft.png")
