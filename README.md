@@ -1,2 +1,2 @@
 # Google-Info
-![graph](url "/goog-msft.png")
+![graph](url "https://github.com/danielberrones/Google-Info/blob/main/goog-msft.png")
